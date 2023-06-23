@@ -1,0 +1,3 @@
+[submodule "CameraServer"]
+	path = CameraServer
+	url = ssh://git@github.com/HDS-Global/CameraServer
